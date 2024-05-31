@@ -1,0 +1,6 @@
+medibuddy_env/
+/.env
+
+model/llama-2-7b-chat.Q8_0.gguf
+model/mistral-7b-instruct-v0.2.Q8_0.gguf
+model/llama-2-7b-chat.ggmlv3.q4_0.bin
